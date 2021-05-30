@@ -51,3 +51,7 @@ Once you have us build an application integration, you can re-use that developme
 Whether your requirements include complex data mappings, data transformation, document generation, real-time synchronization or cross-integration analytics we have you covered. 
 
 + Leverage our resources and capability to deliver a fully-managed, enterprise-level solution to your customers for a fraction of the cost to build and maintain a single point-to-point integration.
+
+
+---
++ [edit](https://github.com/ipaas-pl/www/blob/main/README.md)
